@@ -1,11 +1,11 @@
-# Maven build output
+# Maven
 target/
 
 # IntelliJ
 .idea/
 *.iml
 
-# Mac
+# macOS
 .DS_Store
 
 # Logs
@@ -13,6 +13,3 @@ target/
 
 # Compiled files
 *.class
-
-# Temporary files
-*.tmp
